@@ -1,0 +1,15 @@
+C:\Users\lenin\source\repos\Escuela02\Escuela02\bin\Debug\net6.0\Escuela02.exe
+C:\Users\lenin\source\repos\Escuela02\Escuela02\bin\Debug\net6.0\Escuela02.deps.json
+C:\Users\lenin\source\repos\Escuela02\Escuela02\bin\Debug\net6.0\Escuela02.runtimeconfig.json
+C:\Users\lenin\source\repos\Escuela02\Escuela02\bin\Debug\net6.0\Escuela02.dll
+C:\Users\lenin\source\repos\Escuela02\Escuela02\bin\Debug\net6.0\Escuela02.pdb
+C:\Users\lenin\source\repos\Escuela02\Escuela02\obj\Debug\net6.0\Escuela02.csproj.AssemblyReference.cache
+C:\Users\lenin\source\repos\Escuela02\Escuela02\obj\Debug\net6.0\Escuela02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenin\source\repos\Escuela02\Escuela02\obj\Debug\net6.0\Escuela02.AssemblyInfoInputs.cache
+C:\Users\lenin\source\repos\Escuela02\Escuela02\obj\Debug\net6.0\Escuela02.AssemblyInfo.cs
+C:\Users\lenin\source\repos\Escuela02\Escuela02\obj\Debug\net6.0\Escuela02.csproj.CoreCompileInputs.cache
+C:\Users\lenin\source\repos\Escuela02\Escuela02\obj\Debug\net6.0\Escuela02.dll
+C:\Users\lenin\source\repos\Escuela02\Escuela02\obj\Debug\net6.0\refint\Escuela02.dll
+C:\Users\lenin\source\repos\Escuela02\Escuela02\obj\Debug\net6.0\Escuela02.pdb
+C:\Users\lenin\source\repos\Escuela02\Escuela02\obj\Debug\net6.0\Escuela02.genruntimeconfig.cache
+C:\Users\lenin\source\repos\Escuela02\Escuela02\obj\Debug\net6.0\ref\Escuela02.dll
